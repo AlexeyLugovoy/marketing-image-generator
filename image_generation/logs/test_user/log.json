@@ -1,0 +1,90 @@
+[
+    {
+        "prompt": "3D isometric icon of credit card in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T16:58:59.725199",
+        "generation_time": 7.253655433654785,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616165859.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of modern black SUV in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T16:59:28.280206",
+        "generation_time": 6.2241902351379395,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616165928.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of modern black SUV in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 5,
+        "timestamp": "2024-06-16T16:59:42.145984",
+        "generation_time": 6.582333564758301,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616165942.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of credit card in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T17:26:57.431243",
+        "generation_time": 6.364675521850586,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616172657.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of credit card in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T17:34:07.168773",
+        "generation_time": 5.619019031524658,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616173407.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of debit card in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T17:35:22.580509",
+        "generation_time": 7.228467226028442,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616173522.png",
+        "like": null
+    },
+    {
+        "prompt": "3D isometric icon of debit card in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 512,
+        "width": 512,
+        "seed": 1,
+        "timestamp": "2024-06-16T17:37:41.571381",
+        "generation_time": 6.49069881439209,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616173741.png",
+        "like": true
+    },
+    {
+        "prompt": "3D isometric icon of modern black SUV in vkyahxxqhg style, white background, denoise, highly detailed, high definition, resolution 8k",
+        "negative_prompt": "low resolution, low quality, deformed, distortions, messy, blurry, unfocused",
+        "height": 524,
+        "width": 524,
+        "seed": 5,
+        "timestamp": "2024-06-16T17:39:03.338604",
+        "generation_time": 5.598081827163696,
+        "image_path": "/home/a.lugovoi/Git/rnd-tasks/lct/image_generation/logs/test_user/generated_images/20240616173903.png",
+        "like": true
+    }
+]

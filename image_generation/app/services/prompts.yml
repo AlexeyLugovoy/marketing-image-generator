@@ -1,0 +1,43 @@
+
+PRODUCT:
+  'автокредит':         "modern black SUV"           # modern red minicooper car | modern grey sedan | modern black cabrio | modern black SUV
+  'ипотека':                   "a modern stylized appartment building"   # (квартира/дом/семейная) a modern stylized suburbs house | villa next to a sea
+  'потреб кредит':      "cash"                       # shopping bags | airplane and tropic island
+  'кредитная карта':    "credit card"                # cash next to it | shopping bags
+  'дебетовая карта':    "debit card"                 # green percent next to it | green arrow up
+  'кредит под залог':   "stacks of cash"             # недвижимости/авто stacks of cash, car behind them
+  'брокерские услуги':  "rising charts with green arrows"                # corporate bonds | stacks of gold
+  'вклад':              "tacks of roubles cash, bank icon behind it"     # (рубли/валюта)  stacks of yuan cash, bank icon behind it
+  'кредит':              "cash"                                          # наличными shopping bags | airplane and tropic island  
+  'реферальная программа':     "two people shaking each other hands"     # handshake | "+1" sculpture
+  'премиальное обслуживание':  "golden bank"                             # black briefcase | luxurious bank with a contour
+  'мобильная связь':           "smartphone"         # signal bars | smartphone with blue letter "G" on a screen | smartphone with wi-fi icon on a screen
+  'страховка':                 "shield"             # shield with blue letter "G" on it | umbrella | umbrella with blue letter "G" on top
+  'обмен валют':               "rubble and yuan symbols with arrows circular pattern"       # Yuan symbol
+
+
+QUALITY:
+  prompt:
+    white background,
+    denoise,
+    highly detailed, 
+    high definition, 
+    resolution 8k
+  negative_prompt:
+    low resolution,
+    low quality, 
+    deformed, 
+    distortions, 
+    messy, 
+    blurry, 
+    unfocused
+
+STYLE: 
+  start: 3D isometric icon 
+  end: in vkyahxxqhg style
+
+
+
+
+
+    

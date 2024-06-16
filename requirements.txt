@@ -1,0 +1,14 @@
+Django
+djangorestframework
+diffusers
+transformers
+torch
+numpy
+pyyaml
+pandas
+matplotlib
+scipy
+scikit-learn
+Pillow
+psycopg2-binary
+mysqlclient
