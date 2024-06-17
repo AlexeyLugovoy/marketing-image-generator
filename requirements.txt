@@ -1,5 +1,7 @@
 Django
 djangorestframework
+django-cors-headers
+googletrans
 diffusers
 transformers
 torch
