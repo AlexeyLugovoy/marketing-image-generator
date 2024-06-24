@@ -1,4 +1,6 @@
 Django
+streamlit
+googletrans
 djangorestframework
 django-cors-headers
 googletrans

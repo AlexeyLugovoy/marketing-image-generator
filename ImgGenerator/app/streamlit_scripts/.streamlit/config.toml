@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#F11443"
+backgroundColor = "#313940"
+secondaryBackgroundColor = "#1C242C"
+textColor = "FFFFFF"
+font="monospace"
+
+[server]
+address = "127.0.0.1"
+port = 8502

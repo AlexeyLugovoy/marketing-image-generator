@@ -1,0 +1,79 @@
+PRODUCT:
+  Автокредит:
+    1: "a modern luxury black SUV"
+    2: "a modern red cabrio"
+    3: "a modern grey sedan" 
+  Ипотека:
+    1: "a modern stylized apartment building" 
+    2: "a modern stylized suburbs house" 
+    3: "a villa at a beach" 
+  Потреб кредит:
+    1: "a modern tv, comfort sofa, gaming PC"
+    2: "a mall shopping bags"
+    3: "an airplane and tropic island"
+  Кредитная карта:
+    1: "a credit card multicolor"
+    2: "a credit card black color"
+    3: "a credit card blue color"
+  Дебетовая карта:    
+    1: "a debit card multicolor"
+    2: "a debit card black color"
+    3: "a debit card blue color"
+  Кредит под залог:    
+    1: "stacks of coins inside a house"
+    2: "stacks of coins inside a truck"
+    3: "stacks of cash, house next to them"
+  Брокерские услуги: # corporate bonds 
+    1: "a financial market graphic"
+    2: "a pile of gold bullions"
+    3: "a financial market graphic"
+  Вклад:
+    1: "a golden coins around green tree"
+    2: "stacks of golden coins"
+    3: "stacks of golden coins" 
+  Кредит:                                
+    1: "stacks of silver coins"
+    2: "stacks of silver coins"
+    3: "stacks of silver coins" 
+  Реферальная программа:
+    1: "two people shaking each other hands"
+    2: "a handshake"
+    3: "two people shaking each other hands"
+  Премиальное обслуживание:            
+    1: "a bank facade"
+    2: "a black briefcase"
+    3: "a black briefcase"
+  Мобильная связь: # signal bars 
+    1: "a smartphone"
+    2: "a smartphone"
+    3: "a smartphone"
+  Страховка:
+    1: "a light blue shield"
+    2: "a light blue umbrella"
+    3: "a light blue shield"
+  Обмен валют:   
+    1: "different currencies stacks of cash"
+    2: "different currencies stacks of cash"
+    3: "different currencies stacks of cash"
+
+QUALITY:
+  prompt:
+    white background,
+    denoise,
+    highly detailed,
+    high definition,
+    resolution 8k
+  negative_prompt:
+    low resolution,
+    low quality, 
+    deformed, 
+    distortions, 
+    messy, 
+    blurry, 
+    unfocused,
+    dollar,
+    usd
+
+STYLE: 
+  start: 3D isometric icon 
+  end: in vkyahxxqhg style
